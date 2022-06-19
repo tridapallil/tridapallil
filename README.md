@@ -7,7 +7,8 @@ I`m a software engineer that develop softwares with many techs. I love to learn 
 ## MBA Entrepreneurship
 
 The techs which I already know/worked:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 ### 📫 How to reach me:
 
