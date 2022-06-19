@@ -3,8 +3,9 @@
 ### About me:
 I`m a software engineer that develop softwares with many techs. I love to learn new things every day. I've been working with software development since 2015. Of course, as a software developer, my history with computers started when I still a kid.
 
-## B.Sc. Computer Science
-## MBA Entrepreneurship
+Graduation
+* B.Sc. Computer Science
+* MBA Entrepreneurship
 
 The techs which I already know/worked:
 
