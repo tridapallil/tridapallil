@@ -2,8 +2,7 @@
 
 - 💬 About me:
 I`m a software engineer that develop softwares with many techs. I love to learn new things every day.
-- 📫 How to reach me:
-### Contatos:
+### 📫 How to reach me:
 
 <div>
 <a href="https://instagram.com/tridapallil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
