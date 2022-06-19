@@ -8,7 +8,7 @@ I`m a software engineer that develop softwares with many techs. I love to learn 
 
 The techs which I already know/worked:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img styles="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
 
 ### 📫 How to reach me:
 
