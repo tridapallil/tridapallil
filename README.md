@@ -7,7 +7,7 @@ I`m a software engineer that develop softwares with many techs. I love to learn 
 * B.Sc. Computer Science
 * MBA Entrepreneurship
 
-My experience:
+### My experience:
 On my career, I had to solution many different problems, and for those problems, I analyzed and solved with the best solution which I found.
 Some of solutions I developed:
 - Automated processes using php CURL (developed a robot to get files from a website, optimizing the employee's time in 40%);
